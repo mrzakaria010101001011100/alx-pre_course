@@ -1,2 +1,4 @@
-ÃÂÃ#!/bin/bash
+<<<<<<< HEAD
+#!/bin/bash
+>>>>>>> master
 echo "The school is open!"
